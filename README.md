@@ -13,8 +13,8 @@ Pet adoption prediction - Kaggle
 ## Development
 
 - To add a new library:
-  - `pip install <library>`,
-  - save the list of libraries: `pip freeze > requirements.txt`.
+  - `pip3 install <library>`,
+  - save the list of libraries: `pip3 freeze > requirements.txt`.
 
 ## Useful links
 
