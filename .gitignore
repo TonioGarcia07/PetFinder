@@ -1,1 +1,6 @@
 .DS_Store
+
+# All the data
+in/test/test_images/
+in/test/test_metadata/
+in/test/test_sentiment/
