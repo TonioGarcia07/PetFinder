@@ -4,3 +4,6 @@
 in/test/test_images/
 in/test/test_metadata/
 in/test/test_sentiment/
+in/train/train_images/
+in/train/train_metadata/
+in/train/train_sentiment/
