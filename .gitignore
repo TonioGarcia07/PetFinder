@@ -11,3 +11,4 @@ in/zip/
 
 # pycache
 src/__pycache__/
+src/tests/__pycache__/
