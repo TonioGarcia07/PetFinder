@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/TonioGarcia07/PetFinder.svg?branch=master)](https://travis-ci.com/TonioGarcia07/PetFinder)
+
 # PetFinder 🐶 🐱
 
 Pet adoption prediction - Kaggle
