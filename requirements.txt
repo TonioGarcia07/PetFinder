@@ -25,7 +25,6 @@ entrypoints==0.2.3
 enum34==1.1.6
 fastzbarlight==0.0.14
 funcsigs==1.0.2
-functools32==3.2.3.post2
 future==0.16.0
 go-vncdriver==0.4.19
 h5py==2.8.0
