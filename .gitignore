@@ -8,3 +8,6 @@ in/train/train_images/
 in/train/train_metadata/
 in/train/train_sentiment/
 in/zip/
+
+# pycache
+src/__pycache__/
